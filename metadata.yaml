@@ -1,0 +1,31 @@
+_repo: Die-deutsche-Dampfer-Expedition-zum-Nyassa-See_75762
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Prager, Max
+    birthdate: 1854
+    deathdate: 1910
+    gutenberg_agent_id: '54661'
+    url: http://www.gutenberg.org/2009/agents/54661
+description: ''
+gutenberg_issued: '2025-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75762'
+language: de
+pgterms:marc904: http://resolver.staatsbibliothek-berlin.de/SBB00009B6200000000
+pgterms:marc905: 20180711114924prager
+pgterms:marc906: '1901'
+pgterms:marc907: de
+production_note: Peter Becker, Hans Theyer and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (The digitized holdings of the Staatsbibliothek zu
+  Berlin are available to all interested parties worldwide free of charge for non-commercial
+  use.)
+publication_note: '  $aKiel :$bVerlag von Karl Jansen, $c1901.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Die deutsche Dampfer-Expedition zum Nyassa-See.
+url: http://www.gutenberg.org/ebooks/75762
